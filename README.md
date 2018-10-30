@@ -3,17 +3,17 @@ a validation package for Node.js.
 <br>
 Main function is providing different level of password validation.
 
-### Installation and Usage
+## Installation and Usage
 
-#### Install 
+### Install 
 `npm install --save validationhelper-password`
-
-#### Usage 
+<br>
+### Usage 
 ```js
 const validationHelper = require('validationhelper-password');
 ```
 
-#### Example 
+## Example 
 
 ```js
 let value = 'abc';
@@ -25,7 +25,8 @@ let min = 2;
 let max = 10;
 console.log(validatorHelper.passwordQuality.isLowQuality(password,min,max))//=>true;
 ```
-#### Function
+## Function
+All function are listed below:
 
 Validation                              | Description
 --------------------------------------- | --------------------------------------
@@ -37,7 +38,7 @@ Validation                              | Description
 ***isDate(date)***  | check if the date format is YYYY-MM-DD. (2018-10-20)
 
 
-### Contributing
+## Contributing
 
 In general, this project follow the "fork-and-pull" Git workflow.
 
@@ -51,5 +52,5 @@ In general, this project follow the "fork-and-pull" Git workflow.
 5. Push your work back up to your fork
 6. Submit a Pull request and waiting to be accepted
 
-### License (MIT)
+## License (MIT)
 [License](https://github.com/sangtian719/validationHelper-password/blob/master/LICENSE)
