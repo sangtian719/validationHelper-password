@@ -1,4 +1,4 @@
-## validationHelper-password [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/sangtian719/validationHelper-password/blob/master/LICENSE)
+## validationHelper-password [![npm](https://img.shields.io/npm/v/validationhelper-password.svg)](https://www.npmjs.com/package/validationhelper-password) [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/sangtian719/validationHelper-password/blob/master/LICENSE)
 a validation package for Node.js.
 <br>
 Main function is providing different level of password validation.
