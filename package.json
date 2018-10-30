@@ -19,7 +19,7 @@
     "quality"
   ],
   "author": "Tian Sang",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/sangtian719/validationHelper-password/issues"
   },
