@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http"
+    "url": "https://github.com/sangtian719/validationHelper-password.git"
   },
   "keywords": [
     "validation",
@@ -19,5 +19,9 @@
     "quality"
   ],
   "author": "Tian Sang",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sangtian719/validationHelper-password/issues"
+  },
+  "homepage": "https://github.com/sangtian719/validationHelper-password#readme"
 }
