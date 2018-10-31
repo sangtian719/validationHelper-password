@@ -1,6 +1,6 @@
 {
   "name": "validationhelper-password",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "a validation package for Node.js. Main function is providing different level of password validation.",
   "main": "validationHelper.js",
   "directories": {

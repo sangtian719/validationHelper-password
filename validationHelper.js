@@ -4,7 +4,7 @@ const isSuperQuality = require('./lib/isSuperQuality');
 const isLowQuality = require('./lib/isLowQuality');
 const isTime = require('./lib/isTime');
 const isDate = require('./lib/isDate');
-const version = '1.0.5'
+const version = '1.0.6'
 
 const validationHelper = {
     version: version,
