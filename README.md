@@ -17,13 +17,13 @@ const validationHelper = require('validationhelper-password');
 
 ```js
 let value = 'abc';
-console.log((validatorHelper.isEmpty(value)))//=>false;
+console.log((validationHelper.isEmpty(value)))//=>false;
 
 
 let password = '111112A';
 let min = 2;
 let max = 10;
-console.log(validatorHelper.passwordQuality.isLowQuality(password,min,max))//=>true;
+console.log(validationHelper.passwordQuality.isLowQuality(password,min,max))//=>true;
 ```
 ## Function
 All function are listed below:
